@@ -71,10 +71,10 @@ export default function HomePage() {
 
       <section className="hero section-wrap" id="about">
         <div className="hero-content">
-          <p className="tag">Hồ sơ thực tập sinh pháp lý</p>
+          <p className="tag">Hồ sơ nhân viên pháp lý</p>
           <h1>Nguyễn Tường Khánh My</h1>
           <p className="sub">
-            Thực tập sinh pháp lý định hướng trở thành luật sư tư vấn,
+            Nhân viên pháp lý định hướng trở thành luật sư tư vấn,
             tập trung tư vấn doanh nghiệp và bảo vệ quyền lợi khách hàng.
           </p>
           <div className="hero-actions">
@@ -111,7 +111,7 @@ export default function HomePage() {
 
       <section className="stats section-wrap">
         <article>
-          <h3>04+</h3>
+          <h3>02+</h3>
           <p>Năm kinh nghiệm tích lũy</p>
         </article>
         <article>
@@ -119,7 +119,7 @@ export default function HomePage() {
           <p>Mức hài lòng từ khách hàng nội bộ</p>
         </article>
         <article>
-          <h3>120+</h3>
+          <h3>20+</h3>
           <p>Hồ sơ - tài liệu đã xử lý</p>
         </article>
         <article>
