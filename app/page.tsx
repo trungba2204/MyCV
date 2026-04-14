@@ -74,7 +74,7 @@ export default function HomePage() {
           <p className="tag">Hồ sơ thực tập sinh pháp lý</p>
           <h1>Nguyễn Tường Khánh My</h1>
           <p className="sub">
-            Thực tập sinh pháp lý định hướng trở thành chuyên viên pháp lý và luật sư,
+            Thực tập sinh pháp lý định hướng trở thành luật sư tư vấn,
             tập trung tư vấn doanh nghiệp và bảo vệ quyền lợi khách hàng.
           </p>
           <div className="hero-actions">
