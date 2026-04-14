@@ -170,7 +170,7 @@ export default function HomePage() {
             Dài hạn: Trở thành luật sư chuyên sâu, cung cấp giải pháp pháp lý toàn diện
             cho doanh nghiệp và cá nhân.
           </p>
-          <span className="author">Khánh My - Thực tập sinh pháp lý</span>
+          <span className="author">Khánh My - Nhân viên pháp lý</span>
         </div>
       </section>
 
